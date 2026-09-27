@@ -21,4 +21,4 @@ The project focuses on building an **interactive dashboard** that provides clear
 - **Data Source** – Superstore dataset (sample business data)  
 - **Visualization Types:** Pie charts, bar charts, line graphs, maps, KPI cards  
 
-## 📂 Repository Structure (dashboard demo) 
+## 📂 Repository Structure (dashboard demo) : https://github.com/ombhadouria827-stack/Sales-And-Revenue-Analysis-Dashboard/blob/main/sanpshot%20of%20sales%20and%20revenue%20dashboard.png
